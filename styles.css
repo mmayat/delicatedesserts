@@ -1,0 +1,217 @@
+.card-header {
+    background-color: #5881c5;
+    
+}
+
+.text-center {
+    text-align: center;
+    color: black;
+   
+}
+
+h2 {
+    text-decoration: none;
+}
+
+.bg-inverse{
+    background-color: #5881c5!important;
+}
+
+.navbar-brand {width: 140%;}
+
+/*140%*/
+
+.logo {width: 100%; height: 80px; max-width: 170px;}
+
+.nav-link {
+    font-size: 1.5rem;
+    
+}
+
+a:hover {
+    color: #fff!important;
+/*    text-decoration: none;*/
+}
+
+a, a:hover, a:active, a:visited, a:focus {
+    text-decoration:none;
+}
+
+
+body {
+    overflow-x: hidden;
+    width: 100%;
+    background-color: #fff;
+}
+
+
+h1 {
+    font-family: 'Roboto', sans-serif, 'Georgia';
+    font-size: 3rem;
+}
+
+h2 {
+    font-family: 'Roboto', sans-serif, 'Georgia';
+}
+
+
+h3 {
+    font-family: 'Roboto', sans-serif, 'Georgia';
+    text-align: center;
+}
+
+h4 {
+    font-family: 'Roboto', sans-serif, 'Georgia';
+}
+
+p {
+    font-family: 'Lustria', serif, 'helvetica';
+    line-height: 1.5rem;
+    font-size: 1.3rem;
+}
+
+
+
+.fa{
+    color: #000;
+}
+
+.fa-instagram:hover 
+{
+    color:  #cd486b;
+}
+
+.fa-twitter:hover 
+{
+    color:  #0084b4;
+}
+
+.fa-facebook:hover 
+{
+    color:  #3b5998;
+}
+
+.nav-link  {
+    color: rgba(0,0,0,5);
+}
+
+.logo {
+    width: 100%; height: auto; max-width: 170px;
+}
+
+.carousel-size{
+    width: 100%;
+    height: calc(50vw/1.5);
+}
+
+.form-control-name {
+    width: 100%;
+}
+
+.form-control-email {
+    width: 100%;
+}
+
+.col-form-label {
+    padding-right: 38%;
+    padding-left: 1rem;
+}
+
+.menuimage {
+    margin-top: 2%;
+}
+
+#ourstory {
+    width: 70%;
+    margin: 2% 15% 5% 15%;
+}
+
+#menu {
+    width: 70%;
+    margin: 1% 15% 5% 15%;
+}
+
+#ourstores {
+    width: 70%;
+    margin: 1% 15% 5% 15%;
+}
+
+#catering {
+    width: 70%;
+    margin: 1% 15% 5% 15%;
+}
+
+#contactus {
+    width: 70%;
+    margin: 1% 15% 5% 15%;
+}
+
+
+
+
+.footer {
+    width: 100%;
+    color: #000;
+    background-color: #5881c5;
+    padding: 1% 2% 1% 2%;
+}
+
+
+@media (min-width: 1201px)
+
+.navbar-toggleable-md
+.navbar-collapse {
+    display: -webkit-box!important;
+    display: -webkit-flex!important;
+    display: -ms-flexbox!important;
+    display: flex!important;
+    width: 900px;
+}
+
+
+@media screen and (max-width: 768px) {
+    body {
+    overflow-x: hidden;
+    width: 100%;
+}
+    
+    #ourstory {
+    width: 100%;
+    margin: 2% 1% 1% 1%;
+}
+
+#menu {
+    width: 100%;
+    margin: 1% 1%
+}
+    #ourstores {
+    width: 100%;
+    margin: 1% 1%
+}
+    
+      #catering {
+    width: 100%;
+    margin: 1% 1%
+}
+    
+     #contactus {
+    width: 100%;
+    margin: 1% 1%
+}
+    
+  
+  
+  
+    .image_size {
+    width: 100%;
+    height: auto;
+}
+    
+    .margin {
+    margin: 2% 0%;
+    
+}
+    
+    
+    
+}
